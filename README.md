@@ -1,14 +1,4 @@
 
-# emacs-mustard-theme
+# Emacs mustard theme
 
-TODO: Add a proper README.md
-
-## Description
-
-## Usage
-
-## Licence
-
-## Contributing
-
-
+![](https://github.com/emacsfodder/emacs-mustard-theme/raw/master/mustard-theme.png)
